@@ -1,0 +1,15 @@
+{
+  "branch": "main",
+  "description": "nd test 02",
+  "eda": "kicad",
+  "image_src": "-",
+  "license": "MIT",
+  "name": "tengigabytes/MokyaLora",
+  "tags": [
+    "nd_test",
+    "kicad",
+    "github"
+  ],
+  "url": "https://github.com/tengigabytes/MokyaLora",
+  "website": "-"
+}
